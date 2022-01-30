@@ -1,7 +1,6 @@
 name: Jekyll CI
 
-on:
-  [push]
+on: push
 
 jobs:
   jekyll:
