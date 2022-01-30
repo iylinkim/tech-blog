@@ -3,10 +3,10 @@ title: 2022-01-28 TIL
 author:
   name: NILYI
   link: https://github.com/iylinkim
-date: 2022-01-28 22:00 +9
+date: 2022-01-28 22:00 
 categories: [노개북, Clean code]
 tags: [TIL]
-pin: true
+pin: false
 ---
 
 
